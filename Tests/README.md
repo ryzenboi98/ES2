@@ -1,2 +1,2 @@
 # Tests
-In this repos there gonna be all my tests development.
+Repo with tests made in course.
