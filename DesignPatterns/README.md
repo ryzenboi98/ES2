@@ -1,2 +1,2 @@
-# Software Engineering II
-Repos of my Sofware Engineering II course.
+# Design Patterns
+Repos of all Design Patterns learned in this course.
