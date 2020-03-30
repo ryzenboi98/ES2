@@ -1,2 +1,2 @@
 # Tests
-Repo with tests made in course.
+Repos of the tests made in this course.
